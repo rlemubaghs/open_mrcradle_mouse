@@ -8,4 +8,6 @@ These models should only be used as a reference when understanding the paper. Th
 
 # Credits
 
-This repository was created by Rik Ubaghs and maintained by the Grewe group at the Institute for Neuroinformatics at University of Zurich and ETH Zurich. It has benefitted from the inputs of all authors of the paper Ubaghs et al., "Simultaneous single-cell calcium imaging of neuronal population activity and brain-wide BOLD fMRI." bioRxiv(2023): 2023-11 (https://www.biorxiv.org/content/10.1101/2023.11.14.566368v1). The open_mr_cradle is an open-source project, and we encourage people to use, test, modify and further develop these tools. If you have any questions or suggestions, or find any bugs in the codes, please contact us or submit an issue. If you use the project, please cite us!
+This repository was created by Rik Ubaghs and maintained by the Grewe group at the Institute for Neuroinformatics at University of Zurich and ETH Zurich. It has benefitted from the inputs of all authors of the paper Ubaghs et al., "Simultaneous single-cell calcium imaging of neuronal population activity and brain-wide BOLD fMRI." bioRxiv(2023): 2023-11 (https://www.biorxiv.org/content/10.1101/2023.11.14.566368v1). 
+
+The open_mr_cradle is an open-source project, and we encourage people to use, test, modify and further develop these tools. If you have any questions or suggestions, or find any bugs in the codes, please contact us or submit an issue. If you use the project, please cite us!
