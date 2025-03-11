@@ -1,6 +1,8 @@
 # open_mr_cradle
 
-The open_mr_cradle repository includes all the 3D models to build your own MRI compatible cradle for combined (functional) MRI and calcium imaging. The open_mr_cradle is an open-source project published in Ubaghs et al., "Simultaneous single-cell calcium imaging of neuronal population activity and brain-wide BOLD fMRI." bioRxiv(2023): 2023-11 (https://www.biorxiv.org/content/10.1101/2023.11.14.566368v1). These models should only be used as a reference when understanding the paper. The setup is not meant to be used without adjustments. Please also see related repositories for more tools to perform MRI compatible combined recordings (MR compatible microscope: https://github.com/rlemubaghs/open_mrscope; MR compatible, water cooled translation stage: https://github.com/rlemubaghs/open_translation_stage)!
+The open_mr_cradle repository includes all the 3D models to build your own MRI compatible cradle for combined (functional) MRI and calcium imaging. The open_mr_cradle is an open-source project published in Ubaghs et al., "Simultaneous single-cell calcium imaging of neuronal population activity and brain-wide BOLD fMRI." bioRxiv(2023): 2023-11 (https://www.biorxiv.org/content/10.1101/2023.11.14.566368v1). 
+
+These models should only be used as a reference when understanding the paper. The setup is not meant to be used without adjustments. Please also see related repositories for more tools to perform MRI compatible combined recordings (MR compatible microscope: https://github.com/rlemubaghs/open_mrscope; MR compatible, water cooled translation stage: https://github.com/rlemubaghs/open_translation_stage)!
 
 # Credits
 
